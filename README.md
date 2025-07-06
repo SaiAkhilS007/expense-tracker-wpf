@@ -28,6 +28,6 @@ It’s a single-window app that shows modern C# patterns (nullable refs, implici
 ## 🚀 Quick start
 
 ```bash
-git clone https://github.com/your-username/expense-tracker-wpf.git
+git clone https://github.com/SaiAkhilS007/expense-tracker-wpf.git
 cd expense-tracker-wpf/ExpenseTracker.UI
 dotnet run
